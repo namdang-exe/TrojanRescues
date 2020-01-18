@@ -1,6 +1,6 @@
 /* ===================================================================
  *
- *  Glint v1.0 Main Stylesheet
+ *  Main Stylesheet
  *  11-20-2017
  *  ------------------------------------------------------------------
  *
@@ -1453,6 +1453,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     z-index: 501;
+    width: 20%;
 }
 
 .header-logo a {
@@ -1461,7 +1462,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     padding: 0;
     outline: 0;
     border: none;
-    width: 80px;
+    width: 300px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -3381,10 +3382,10 @@ footer .row {
     padding: 0;
     outline: 0;
     border: none;
-    width: 85px;
-    height: 28px;
+    width: 300px;
+    height: 100px;
     background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 85px 28px;
+    background-size: 300px 100px;
     font: 0/0 a;
     text-shadow: none;
     color: transparent;

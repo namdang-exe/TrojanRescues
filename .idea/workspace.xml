@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e6af66d-75db-4207-9955-0ff9a6637a6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/bar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/size.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vendor.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/vendor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo-footer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_model/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_model/model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_model/weights.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +69,29 @@
       <updated>1579318715423</updated>
       <workItem from="1579318716873" duration="5823000" />
       <workItem from="1579326785321" duration="2169000" />
-      <workItem from="1579329358631" duration="6051000" />
+      <workItem from="1579329358631" duration="6527000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579336112634">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="441" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/51.27.1315.741@51.27.1315.741" timestamp="1579336112634" />
+    <state x="273" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1579336103708">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="273" y="27" width="860" height="741" key="CommitChangelistDialog2/51.27.1315.741@51.27.1315.741" timestamp="1579336103708" />
+    <state x="172" y="85" width="1052" height="622" key="MergeDialog" timestamp="1579336070254">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="172" y="85" width="1052" height="622" key="MergeDialog/51.27.1315.741@51.27.1315.741" timestamp="1579336070254" />
+    <state x="413" y="114" width="580" height="564" key="MultipleFileMergeDialog" timestamp="1579336070271">
+      <screen x="51" y="27" width="1315" height="741" />
+    </state>
+    <state x="413" y="114" width="580" height="564" key="MultipleFileMergeDialog/51.27.1315.741@51.27.1315.741" timestamp="1579336070271" />
   </component>
 </project>
