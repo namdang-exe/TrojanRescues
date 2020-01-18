@@ -2248,6 +2248,16 @@ html.no-csstransitions .home-content__main {
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+.stat__count {
+    font-family: "montserrat-bold", sans-serif;
+    font-size: 8.4rem;
+    line-height: 1;
+    color: #FFFFFF;
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
 
 .stats h5 {
     font-family: "montserrat-semibold", sans-serif;
