@@ -2547,6 +2547,7 @@ html.no-csstransitions .home-content__main {
     vertical-align: bottom;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
+    width: 560px;
 }
 
 .item-folio__thumb a {
@@ -3388,7 +3389,8 @@ footer .row {
 
 .footer-logo {
     display: block;
-    margin: -.6rem 0 3.6rem 0;
+    /*margin: -.6rem 0 3.6rem 0;*/
+    margin-left: 37%;
     padding: 0;
     outline: 0;
     border: none;
