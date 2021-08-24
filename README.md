@@ -1,6 +1,6 @@
 # TrojanRescues
 
-Visit fyi:
+VISIT HERE TO LEARN MORE:
 https://devpost.com/software/behaviour-analyzer
 
 SOURCES AND CREDITS:
